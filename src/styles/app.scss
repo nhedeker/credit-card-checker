@@ -1,0 +1,29 @@
+.app {
+  margin: 1rem;
+}
+
+.app-body {
+  margin: 5rem;
+}
+
+.credit-card-form-container {
+  height: 100%;
+}
+
+.credit-card-form {
+  min-height: 15vh;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.yay-gif-container {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+}
+
+.yay-gif {
+  width: 50%;
+}
